@@ -18,7 +18,7 @@ const Usability = () => {
           Terms of Service{" "}
         </text>
         <text className="text-[rgb(0,128,96)] cursor-pointer">
-          Terms of Service{" "}
+        Privacy Policy{" "}
         </text>
       </div>
     </div>
