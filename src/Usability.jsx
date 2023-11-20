@@ -21,6 +21,15 @@ const Usability = () => {
         Privacy Policy{" "}
         </text>
       </div>
+      <div className="h-24 w-full flex flex-row justify-center items-center  bg-black">
+      <p>
+          <p className=" text-center py-4 text-white">
+            @copyright developed by
+            <span className=" text-yellow-400"> alpha coders</span> | All
+            rights reserved
+          </p>
+        </p>
+      </div>
     </div>
   );
 };
